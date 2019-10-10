@@ -1,0 +1,10 @@
+{
+  "name": "nx-three",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.2.9",
+    "@angular/core": "^8.2.9",
+    "three": "^0.109.0"
+  },
+  "dependencies": {}
+}
